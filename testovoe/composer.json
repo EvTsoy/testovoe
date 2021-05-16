@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.14",
+        "ramsey/uuid": "^4.1"
+    }
+}
